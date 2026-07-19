@@ -1,7 +1,7 @@
 <!-- Interactive, Recruiter-Grade GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Abhishek Gupta 👋</h1>
-<h3 align="center">Data Scientist (Early Career) | Applied Machine Learning</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Decisions;Building+End-to-End+ML+Systems;From+EDA+to+Deployment;AI+%7C+ML+%7C+DL+%7C+NLP&center=true&width=700&height=45">
